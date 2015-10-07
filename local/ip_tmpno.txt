@@ -1,0 +1,209 @@
+23.236.48.170 1949 *.elfindreams.com 
+23.236.56.174 2022 www.moviemaps.org 
+23.236.55.89 2212 *.synqq.com 
+23.251.128.212 1066 *.tectonicinteractive.com 
+23.251.130.158 1027 ads.betweendigital.com 
+23.251.159.248 1087 feelinsonice.com 
+23.251.155.140 1321 *.google.stackdriver.com nginx
+31.55.167.103 1735 *.1.man001.bt.isp.nflxvideo.net 
+23.236.56.219 1921 *.karigran.com 
+31.55.184.19 1641 *.1.lhr005.bt.isp.nflxvideo.net 
+62.1.38.15 1085 a248.e.akamai.net 
+62.253.3.161 902 a248.e.akamai.net 
+64.233.166.159 1411 grucn.com GFE/2.0
+72.14.249.36 861 www.bibliogo.com 
+74.125.133.188 6309 *.google.com 
+87.245.196.100 929 a248.e.akamai.net 
+87.245.197.53 902 a248.e.akamai.net 
+87.245.200.11 897 a248.e.akamai.net 
+103.1.139.52 246 a248.e.akamai.net 
+104.154.43.225 731 *.jobutrax.com 
+104.155.35.7 953 valasystem.com 
+108.59.83.227 750 gauntface.com 
+111.92.162.70 564 a248.e.akamai.net 
+130.211.130.82 750 *.gyazo.com 
+146.148.46.237 952 *.google.stackdriver.com nginx
+162.222.178.189 836 *.oumy.com 
+173.194.217.159 1051 grucn.com GFE/2.0
+180.149.59.139 1218 a248.e.akamai.net 
+194.44.4.217 4662 a248.e.akamai.net 
+198.70.68.5 1914 a248.e.akamai.net 
+203.42.8.59 983 sip.flyingdoctor.net 
+203.208.41.129 218 *.google.com GFE/2.0
+203.208.49.187 374 *.doubleclick.net GFE/2.0
+213.208.156.71 1002 *.haas.com 
+4.53.56.204 1764 *.acronis.com 
+23.251.144.138 704 *.aodocs.com 
+27.121.51.180 305 enquete.t-com.ne.jp 
+27.121.54.199 405 www.nodule.jp 
+31.55.163.99 1115 *.1.dsa001.bt.isp.nflxvideo.net 
+62.1.38.56 1086 a248.e.akamai.net 
+64.233.180.159 974 grucn.com GFE/2.0
+66.185.85.196 1026 a248.e.akamai.net 
+66.185.85.168 1056 a248.e.akamai.net 
+72.14.249.209 816 www.psc-inc.co.jp 
+74.125.34.155 807 *.graffitiwall.com 
+74.125.28.188 5861 *.google.com 
+74.125.194.159 963 grucn.com GFE/2.0
+81.175.29.8 863 a248.e.akamai.net 
+82.94.228.86 1182 *.guidion.nl 
+87.245.200.30 908 a248.e.akamai.net 
+87.245.200.208 924 *.stanitsagame.ru 
+103.1.139.20 260 a248.e.akamai.net 
+104.154.49.55 915 *.cloud.vimeo.com 
+104.155.11.72 1305 *.wombo.gg 
+104.155.14.88 1412 *.wix.com 
+104.197.45.247 1164 drive.bitcasa.com 
+107.178.218.11 737 www.engman-taylor.com 
+130.211.121.46 697 *.supportland.com 
+130.211.130.34 708 *.ftrackapp.com 
+146.148.52.24 718 *.openforest.net 
+146.148.93.175 949 *.vyvacity.com 
+163.28.83.114 441 *.cdn.hinet.net 
+172.56.136.73 882 a248.e.akamai.net 
+173.255.117.201 1674 *.google.stackdriver.com nginx
+180.149.59.156 787 a248.e.akamai.net 
+195.249.20.166 1620 vpn.frontdata.dk 
+198.70.68.50 1761 a248.e.akamai.net 
+202.122.146.180 361 a248.e.akamai.net 
+202.224.83.210 558 my.enjoy.jp 
+203.94.209.37 619 a248.e.akamai.net 
+206.169.145.15 4771 www.dashboardonline.com 
+217.19.150.172 1092 mail.bmsitalia.com 
+23.236.48.195 720 *.ftrackapp.com 
+27.90.189.82 470 point.connect.auone.jp 
+64.233.171.128 1067 *.storage.googleapis.com UploadServer
+65.39.199.24 939 *.cobicare.ca 
+70.32.141.171 1120 *.r2.ita.googleacquisitionmigration.com 
+72.14.249.186 840 *.shop033.com 
+70.32.141.32 4372 *.itasoftware.com Apache
+74.125.122.67 1394 fra-da.ext.google.com Microsoft-IIS/7.5
+74.125.196.159 1004 grucn.com GFE/2.0
+83.100.221.69 932 *.vwv.co.uk 
+82.135.118.225 1129 *.aerasec.de 
+91.245.214.5 1287 a248.e.akamai.net 
+103.1.139.53 600 a248.e.akamai.net 
+104.154.49.6 1006 recruiting-test.catamaranventures.com 
+104.155.28.74 968 *.ftrackapp.com 
+107.167.189.158 510 *.fourm.jp 
+109.105.109.6 1108 a248.e.akamai.net 
+146.148.32.132 986 *.shoppinpal.com 
+146.148.34.168 935 *.google.stackdriver.com nginx
+146.148.44.108 696 secure.imode.company 
+162.222.178.4 990 *.google.stackdriver.com nginx
+173.194.197.128 956 *.storage.googleapis.com UploadServer
+173.194.208.125 1057 *.google.com 
+173.255.115.10 1097 *.cfsusercontent.io 
+178.60.128.143 1034 a248.e.akamai.net 
+199.87.241.116 1204 mail.hydmech.com 
+202.122.145.201 377 www.chinanetcenter.com 
+202.122.145.74 365 www.chinanetcenter.com 
+202.159.216.170 672 a248.e.akamai.net 
+203.82.77.154 758 a248.e.akamai.net 
+203.208.41.142 448 *.google.com GFE/2.0
+203.208.50.153 569 *.g.doubleclick.net GFE/2.0
+213.240.44.134 1139 a248.e.akamai.net 
+23.236.57.168 711 www.mapyshop.com 
+31.209.137.88 955 a248.e.akamai.net 
+31.55.184.151 1054 *.1.lhr004.bt.isp.nflxvideo.net 
+64.233.188.125 513 *.google.com 
+65.39.199.21 920 *.englishcanada.org 
+66.185.85.206 1062 a248.e.akamai.net 
+72.14.249.216 833 login.spiraluniverse.com 
+74.125.34.123 813 guide.duosecurity.com 
+74.125.110.139 1704 *.c.docs.google.com 
+77.66.9.158 955 *.dialogportal.com 
+74.125.202.188 6021 *.google.com 
+80.93.31.2 928 *.pcidssportal.com 
+83.233.164.210 962 frost.denacode.se 
+87.245.196.92 932 a248.e.akamai.net 
+87.245.196.94 934 a248.e.akamai.net 
+87.245.200.108 923 a248.e.akamai.net 
+104.197.22.10 856 *.wepay.com 
+108.59.80.131 714 bellashaye.com 
+108.59.85.198 698 www.occupywallst.org 
+130.211.144.163 757 *.spaxtel.com 
+146.148.36.75 933 *.google.stackdriver.com nginx
+146.148.46.65 735 *.bigterminal.com 
+173.194.200.211 1141 googlezip.net GFE/2.0
+173.194.214.128 1083 *.storage.googleapis.com UploadServer
+173.255.118.34 730 styledefinednyc.com 
+173.194.194.188 6236 *.google.com 
+186.46.140.208 1173 a248.e.akamai.net 
+198.70.68.161 2966 a248.e.akamai.net 
+199.223.233.169 2599 www.androidforwork2015.com 
+198.70.68.153 4452 a248.e.akamai.net 
+202.122.145.73 1131 www.chinanetcenter.com 
+203.208.49.179 1038 www.google.com GFE/2.0
+210.143.147.154 959 a248.e.akamai.net 
+217.19.150.36 1662 sintesi.vivisol.it 
+221.133.8.167 1303 a248.e.akamai.net 
+23.236.48.16 1493 *.cloudplugs.com 
+23.251.128.180 1797 www.tranquillityskincare.com 
+23.251.150.104 1437 www.liveadexchanger.com 
+31.55.163.109 1825 *.1.dsa001.bt.isp.nflxvideo.net 
+62.253.3.159 1287 a248.e.akamai.net 
+62.253.3.148 1327 a248.e.akamai.net 
+64.233.171.211 1780 googlezip.net GFE/2.0
+64.233.184.128 3119 *.storage.googleapis.com UploadServer
+66.185.85.229 1603 a248.e.akamai.net 
+72.14.249.97 1452 chat.eu1.gigya.com 
+74.125.21.131 1822 uberproxy.corp.google.com GFE/2.0
+74.125.34.117 1261 *.directwestbusinesscentre.com 
+74.125.34.106 1544 *.adyoulike.com 
+74.125.129.128 1677 *.storage.googleapis.com UploadServer
+74.125.136.129 1863 uberproxy.corp.google.com GFE/2.0
+74.125.143.129 1634 uberproxy.corp.google.com GFE/2.0
+74.125.198.211 1048 googlezip.net GFE/2.0
+77.66.9.157 1100 *.wref.dk 
+83.233.164.126 1447 probus.tryggconnect.se 
+87.245.197.33 1463 a248.e.akamai.net 
+87.245.197.48 1436 a248.e.akamai.net 
+103.1.139.47 836 a248.e.akamai.net 
+104.155.11.23 1542 *.summer.lineberty.net 
+104.155.43.211 4313 *.ftrackapp.com 
+107.167.187.224 1027 eigoka.jp 
+107.167.189.175 956 *.pubgame.tw 
+107.178.209.51 1309 demo.shipearlyapp.com 
+109.105.109.11 1595 a248.e.akamai.net 
+130.211.144.78 1275 skarpline.com 
+130.211.176.69 1295 *.loggi.com 
+130.211.178.77 1894 *.cfsusercontent.io 
+146.148.35.170 1276 *.crowdcare.com 
+146.148.52.187 1263 apidev.cavityrush.com 
+173.194.201.128 1739 *.storage.googleapis.com UploadServer
+173.194.209.128 1743 *.storage.googleapis.com UploadServer
+173.255.118.48 1296 click.messagestick.com.au 
+180.149.59.140 1385 a248.e.akamai.net 
+195.249.20.133 2272 kortsalg.midttrafik.dk 
+198.70.68.162 7248 a248.e.akamai.net 
+203.78.32.98 730 a248.e.akamai.net 
+203.42.8.50 1604 *.flyingdoctor.net 
+203.208.40.137 922 *.google.com GFE/2.0
+203.192.223.199 1507 a248.e.akamai.net 
+210.143.147.152 767 a248.e.akamai.net 
+4.31.38.139 2865 securelogin.arubanetworks.com 
+23.236.56.21 1714 *.zync.io Apache
+23.251.150.196 1681 *.google.stackdriver.com nginx
+31.55.163.113 1581 *.1.dsa001.bt.isp.nflxvideo.net 
+62.1.38.40 1636 a248.e.akamai.net 
+62.253.3.135 1243 a248.e.akamai.net 
+64.233.165.129 2290 uberproxy.corp.google.com GFE/2.0
+66.185.85.132 1604 a248.e.akamai.net 
+66.185.85.163 1562 a248.e.akamai.net 
+72.14.249.135 1350 www.slownet.ne.jp 
+74.125.34.194 1430 www.unatickets.com 
+74.125.34.133 1372 express.hudora.de 
+74.125.143.188 6749 *.google.com 
+77.66.9.251 1914 www.apostasonline.com 
+87.245.196.228 1459 a248.e.akamai.net 
+87.245.197.40 1462 a248.e.akamai.net 
+87.245.200.39 1450 a248.e.akamai.net 
+87.245.200.111 1469 a248.e.akamai.net 
+107.178.217.159 1293 *.sitebuilder.com 
+107.178.218.234 1282 *.xbasil.com 
+109.105.109.9 1688 a248.e.akamai.net 
+130.211.116.53 1269 *.bedrockdata.com 
+146.148.39.181 1696 *.google.stackdriver.com nginx
+146.148.45.101 1294 *.fundable.com 
+162.222.183.74 1299 *.droptilyoushop.com 
